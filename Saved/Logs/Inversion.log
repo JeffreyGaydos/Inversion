@@ -904,3 +904,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.28-23.17.16:839][  0]LogAssetRegistry: Asset discovery search completed in 75.3390 seconds
 [2022.01.28-23.17.16:903][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008087 seconds (updated 0 objects)
 [2022.01.28-23.17.16:946][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.28-23.18.50:587][992]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.28-23.18.50:636][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.28-23.18.50:757][992]PIE: New page: PIE session: VehicleExampleMap (Jan 28, 2022, 1:18:50 PM)
+[2022.01.28-23.18.50:806][992]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.28-23.18.50:810][992]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.28-23.18.50:810][992]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.28-23.18.50:853][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042358s)
+[2022.01.28-23.18.50:854][992]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.01.28-23.18.50:865][992]LogPlayLevel: PIE: World Init took: (0.012034s)
+[2022.01.28-23.18.50:874][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.063888s)
+[2022.01.28-23.18.50:906][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.28-23.18.50:909][992]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.28-23.18.50:909][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.28-23.18.50:909][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.28-23.18.50:909][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.28-23.18.50:909][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.28-23.18.50:909][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.28-23.18.50:909][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.28-23.18.50:909][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.28-23.18.50:909][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.28-23.18.50:909][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.28-23.18.50:909][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.28-23.18.50:909][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.28-23.18.50:909][992]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.28-23.18.50:912][992]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.28-23.18.50:912][992]LogAudioMixer: Display: 1: FrontRight
+[2022.01.28-23.18.50:917][992]LogAudioMixer: Display: Using Audio Device Headphones (2- Realtek USB2.0 Audio)
+[2022.01.28-23.18.50:917][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.28-23.18.50:917][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.28-23.18.50:917][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.28-23.18.50:917][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.28-23.18.50:917][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.28-23.18.50:917][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.28-23.18.50:918][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.28-23.18.50:918][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.28-23.18.50:918][992]LogInit: FAudioDevice initialized.
+[2022.01.28-23.18.50:918][992]LogAudio: Display: Audio Device (ID: 2) registered with world 'VehicleExampleMap'.
+[2022.01.28-23.18.50:940][992]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.01.28-23.18.51:042][992]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2022.01.28-18.18.51
+[2022.01.28-23.18.51:044][992]LogWorld: Bringing up level for play took: 0.025728
+[2022.01.28-23.18.51:046][992]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.01.28-23.18.51:124][992]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.28-23.18.51:189][992]PIE: Server logged in
+[2022.01.28-23.18.51:197][992]PIE: Play in editor total start time 0.602 seconds.
+[2022.01.28-23.19.03:047][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-23.19.03:047][343]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.28-23.19.03:064][343]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.19.03:065][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.19.03:073][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.28-23.19.03:084][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.19.03:150][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.28-23.19.03:190][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-23.19.03:198][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-23.19.03:202][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-23.19.03:216][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.01.28-23.19.03:237][344]LogPlayLevel: Display: Destroying online subsystem :Context_1
