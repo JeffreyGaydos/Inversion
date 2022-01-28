@@ -1180,3 +1180,341 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.28-22.24.57:307][  0]LogAssetRegistry: Asset discovery search completed in 18.0322 seconds
 [2022.01.28-22.24.57:320][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2022.01.28-22.24.57:452][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.28-22.57.00:142][180]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.28-22.57.00:157][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.28-22.57.00:163][180]PIE: New page: PIE session: VehicleExampleMap (Jan 28, 2022, 12:57:00 PM)
+[2022.01.28-22.57.00:166][180]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.28-22.57.00:167][180]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.28-22.57.00:168][180]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.28-22.57.00:188][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019932s)
+[2022.01.28-22.57.00:191][180]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.01.28-22.57.00:193][180]LogPlayLevel: PIE: World Init took: (0.003848s)
+[2022.01.28-22.57.00:193][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.024870s)
+[2022.01.28-22.57.00:204][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.01.28-22.57.00:208][180]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.28-22.57.00:208][180]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.28-22.57.00:208][180]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.28-22.57.00:208][180]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.28-22.57.00:208][180]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.28-22.57.00:208][180]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.28-22.57.00:208][180]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.28-22.57.00:208][180]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.28-22.57.00:208][180]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.28-22.57.00:209][180]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.28-22.57.00:209][180]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.28-22.57.00:209][180]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.28-22.57.00:209][180]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.28-22.57.00:223][180]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.28-22.57.00:223][180]LogAudioMixer: Display: 1: FrontRight
+[2022.01.28-22.57.00:231][180]LogAudioMixer: Display: Using Audio Device DELL S2415H (Intel(R) Display Audio)
+[2022.01.28-22.57.00:231][180]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.28-22.57.00:231][180]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.28-22.57.00:231][180]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.28-22.57.00:231][180]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.28-22.57.00:231][180]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.28-22.57.00:232][180]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.28-22.57.00:233][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.28-22.57.00:233][180]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.28-22.57.00:233][180]LogInit: FAudioDevice initialized.
+[2022.01.28-22.57.00:233][180]LogAudio: Display: Audio Device (ID: 2) registered with world 'VehicleExampleMap'.
+[2022.01.28-22.57.00:245][180]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.01.28-22.57.00:261][180]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2022.01.28-17.57.00
+[2022.01.28-22.57.00:263][180]LogWorld: Bringing up level for play took: 0.006843
+[2022.01.28-22.57.00:264][180]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.01.28-22.57.00:274][180]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.28-22.57.00:278][180]PIE: Server logged in
+[2022.01.28-22.57.00:281][180]PIE: Play in editor total start time 0.134 seconds.
+[2022.01.28-22.57.05:108][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-22.57.05:108][460]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.28-22.57.05:110][460]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-22.57.05:110][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-22.57.05:126][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.28-22.57.05:128][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-22.57.05:134][460]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.28-22.57.05:134][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-22.57.05:135][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-22.57.05:138][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-22.57.05:140][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.01.28-22.57.05:218][462]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.01.28-22.59.32:534][667]LogSlate: Window 'Tutorials' being destroyed
+[2022.01.28-22.59.32:566][667]LogSlate: Window 'Tutorials' being destroyed
+[2022.01.28-22.59.55:232][831]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.28-22.59.55:252][831]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.28-22.59.57:063][935]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.01.28-22.59.57:064][935]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.28-23.00.03:517][266]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.01.28-23.00.03:527][266]LogContentBrowser: Creating deferred item: NewWorld
+[2022.01.28-23.00.07:519][489]LogContentBrowser: Attempting asset rename: NewWorld -> TestLevel
+[2022.01.28-23.00.07:538][489]LogContentBrowser: End creating deferred item NewWorld
+[2022.01.28-23.00.13:157][795]LogContentBrowser: Attempting asset rename: Maps -> Levels
+[2022.01.28-23.00.13:189][795]LogSlate: Took 0.000525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.28-23.00.13:272][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel" FILE="C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/Levels/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.28-23.00.13:285][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.01.28-23.00.13:289][795]LogSavePackage: Moving 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/TestLevel514AADAF4989A7045254E09267837E13.tmp' to 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/Levels/TestLevel.umap'
+[2022.01.28-23.00.13:290][795]LogFileHelpers: Saving map 'TestLevel' took 0.019
+[2022.01.28-23.00.13:393][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.01.28-23.00.13:420][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.01.28-23.00.13:428][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.01.28-23.00.13:484][795]AssetCheck: New page: Asset Save: TestLevel
+[2022.01.28-23.00.13:484][795]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2022.01.28-23.00.15:797][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.01.28-23.00.15:856][916]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestLevel.TestLevel
+[2022.01.28-23.00.15:856][916]Cmd: MAP LOAD FILE="C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/Levels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.28-23.00.15:856][916]LightingResults: New page: Lighting Build
+[2022.01.28-23.00.15:856][916]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.01.28-23.00.15:860][916]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.00.15:860][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.00.15:861][916]MapCheck: New page: Map Check
+[2022.01.28-23.00.15:861][916]LightingResults: New page: Lighting Build
+[2022.01.28-23.00.15:869][916]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.28-23.00.15:877][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.01.28-23.00.15:879][916]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.01.28-23.00.15:939][916]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.28-23.00.15:940][916]LogAIModule: Creating AISystem for world TestLevel
+[2022.01.28-23.00.15:950][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.01.28-23.00.15:952][916]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.28-23.00.15:952][916]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.212ms to complete.
+[2022.01.28-23.00.15:953][916]LogFileHelpers: Loading map 'TestLevel' took 0.096
+[2022.01.28-23.00.24:961][405]Cmd: DELETE
+[2022.01.28-23.00.24:961][405]Cmd: ACTOR DELETE
+[2022.01.28-23.00.24:968][405]LogEditorActor: Deleted Actor: PointLight
+[2022.01.28-23.00.24:980][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.01.28-23.00.24:982][405]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.01.28-23.00.56:171][249]LogActorFactory: Actor Factory created Cube
+[2022.01.28-23.00.56:815][286]LogActorFactory: Actor Factory created Cube
+[2022.01.28-23.01.35:652][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.01.28-23.01.37:945][352]LogSlate: Window 'Save Content' being destroyed
+[2022.01.28-23.01.37:981][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel" FILE="C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/Levels/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.28-23.01.37:986][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.01.28-23.01.37:990][352]LogSavePackage: Moving 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/TestLevel0562B471433907ABB276298FB85E4388.tmp' to 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/Levels/TestLevel.umap'
+[2022.01.28-23.01.37:995][352]LogFileHelpers: Saving map 'TestLevel' took 0.014
+[2022.01.28-23.01.38:003][352]AssetCheck: New page: Asset Save: TestLevel
+[2022.01.28-23.01.38:003][352]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2022.01.28-23.03.56:194][567]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.28-23.03.56:212][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.28-23.03.56:212][567]PIE: New page: PIE session: TestLevel (Jan 28, 2022, 1:03:56 PM)
+[2022.01.28-23.03.56:213][567]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2022.01.28-23.03.56:215][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002473s)
+[2022.01.28-23.03.56:217][567]LogAIModule: Creating AISystem for world TestLevel
+[2022.01.28-23.03.56:217][567]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2022.01.28-23.03.56:217][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.004421s)
+[2022.01.28-23.03.56:235][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.01.28-23.03.56:236][567]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.28-23.03.56:236][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.28-23.03.56:236][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.28-23.03.56:237][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.28-23.03.56:237][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.28-23.03.56:237][567]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.28-23.03.56:237][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.28-23.03.56:237][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.28-23.03.56:237][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.28-23.03.56:237][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.28-23.03.56:237][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.28-23.03.56:237][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.28-23.03.56:237][567]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.28-23.03.56:264][567]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.28-23.03.56:264][567]LogAudioMixer: Display: 1: FrontRight
+[2022.01.28-23.03.56:287][567]LogAudioMixer: Display: Using Audio Device DELL S2415H (Intel(R) Display Audio)
+[2022.01.28-23.03.56:287][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.28-23.03.56:287][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.28-23.03.56:287][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.28-23.03.56:288][567]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.28-23.03.56:288][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.28-23.03.56:288][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.28-23.03.56:290][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.28-23.03.56:290][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.28-23.03.56:290][567]LogInit: FAudioDevice initialized.
+[2022.01.28-23.03.56:290][567]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestLevel'.
+[2022.01.28-23.03.56:302][567]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.01.28-23.03.56:309][567]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2022.01.28-18.03.56
+[2022.01.28-23.03.56:309][567]LogWorld: Bringing up level for play took: 0.001820
+[2022.01.28-23.03.56:310][567]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.01.28-23.03.56:319][567]PIE: Server logged in
+[2022.01.28-23.03.56:320][567]PIE: Play in editor total start time 0.122 seconds.
+[2022.01.28-23.03.58:690][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-23.03.58:690][704]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2022.01.28-23.03.58:690][704]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.03.58:691][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.03.58:698][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.28-23.03.58:712][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.03.58:719][704]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.28-23.03.58:719][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-23.03.58:721][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-23.03.58:724][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-23.03.58:727][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.01.28-23.03.58:753][705]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.01.28-23.04.01:206][809]LogEditorViewport: Clicking on Actor (LMB): Sedan_C (Sedan)
+[2022.01.28-23.04.01:513][822]Cmd: DELETE
+[2022.01.28-23.04.01:513][822]Cmd: ACTOR DELETE
+[2022.01.28-23.04.01:515][822]LogEditorActor: Deleted Actor: Sedan_C
+[2022.01.28-23.04.01:559][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.01.28-23.04.01:560][822]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.01.28-23.04.02:923][903]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.28-23.04.02:936][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.28-23.04.02:936][903]PIE: New page: PIE session: TestLevel (Jan 28, 2022, 1:04:02 PM)
+[2022.01.28-23.04.02:936][903]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestLevel
+[2022.01.28-23.04.02:938][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001737s)
+[2022.01.28-23.04.02:940][903]LogAIModule: Creating AISystem for world TestLevel
+[2022.01.28-23.04.02:941][903]LogPlayLevel: PIE: World Init took: (0.002782s)
+[2022.01.28-23.04.02:941][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestLevel.TestLevel to /Game/Levels/UEDPIE_0_TestLevel.TestLevel (0.004717s)
+[2022.01.28-23.04.02:948][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.01.28-23.04.02:949][903]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.28-23.04.02:949][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.28-23.04.02:949][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.28-23.04.02:949][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.28-23.04.02:949][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.28-23.04.02:949][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.28-23.04.02:949][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.28-23.04.02:949][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.28-23.04.02:949][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.28-23.04.02:950][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.28-23.04.02:950][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.28-23.04.02:950][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.28-23.04.02:950][903]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.28-23.04.02:964][903]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.28-23.04.02:965][903]LogAudioMixer: Display: 1: FrontRight
+[2022.01.28-23.04.02:973][903]LogAudioMixer: Display: Using Audio Device DELL S2415H (Intel(R) Display Audio)
+[2022.01.28-23.04.02:973][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.28-23.04.02:973][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.28-23.04.02:973][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.28-23.04.02:974][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.28-23.04.02:974][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.28-23.04.02:974][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.28-23.04.02:975][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.28-23.04.02:975][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.28-23.04.02:975][903]LogInit: FAudioDevice initialized.
+[2022.01.28-23.04.02:975][903]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestLevel'.
+[2022.01.28-23.04.02:988][903]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.01.28-23.04.02:993][903]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 60) at 2022.01.28-18.04.02
+[2022.01.28-23.04.02:994][903]LogWorld: Bringing up level for play took: 0.000513
+[2022.01.28-23.04.02:994][903]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.01.28-23.04.02:997][903]PIE: Server logged in
+[2022.01.28-23.04.02:998][903]PIE: Play in editor total start time 0.071 seconds.
+[2022.01.28-23.04.03:685][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-23.04.03:685][941]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestLevel
+[2022.01.28-23.04.03:685][941]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.04.03:686][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.04.03:694][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.28-23.04.03:696][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.04.03:703][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-23.04.03:703][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-23.04.03:704][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-23.04.03:708][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.01.28-23.04.03:754][944]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.01.28-23.04.10:831][308]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode
+[2022.01.28-23.04.11:169][308]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2022.01.28-23.04.14:280][396]LogSlate: Took 0.001426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.28-23.04.31:580][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD
+[2022.01.28-23.04.32:325][193]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.28-23.05.47:182][212]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.28-23.07.24:323][403]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.07.24:323][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.07.24:397][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode
+[2022.01.28-23.08.12:561][106]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.08.12:561][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.08.22:471][580]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode
+[2022.01.28-23.11.39:199][475]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.01.28-23.11.39:202][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel" FILE="C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/Autosaves/Game/Levels/TestLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.28-23.11.39:205][475]LogSavePackage: Moving 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/TestLevel_Auto1A1BDD4184EA0BCD736D8AAA25A6AB539.tmp' to 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/Autosaves/Game/Levels/TestLevel_Auto1.umap'
+[2022.01.28-23.11.39:207][475]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestLevel' took 0.043
+[2022.01.28-23.11.39:207][475]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2022.01.28-23.11.39:208][475]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleBP/Blueprints/VehicleGameMode] ([2] browsable assets)...
+[2022.01.28-23.11.39:208][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleBP/Blueprints/VehicleGameMode]
+[2022.01.28-23.11.39:217][475]LogSavePackage: Moving 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/VehicleGameMode_Auto1F7DBB45E40224AF7C404A1A6593D0062.tmp' to 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/Autosaves/Game/VehicleBP/Blueprints/VehicleGameMode_Auto1.uasset'
+[2022.01.28-23.11.39:218][475]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.01.28-23.14.42:014][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel" FILE="C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/Levels/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.28-23.14.42:054][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.01.28-23.14.42:061][817]LogSavePackage: Moving 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/TestLevelD6B0F0F041CBAB32CB2A129E09693F41.tmp' to 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/Levels/TestLevel.umap'
+[2022.01.28-23.14.42:107][817]AssetCheck: New page: Asset Save: TestLevel
+[2022.01.28-23.14.42:107][817]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2022.01.28-23.15.45:595][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Blueprints/VehicleGameMode" FILE="C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/VehicleBP/Blueprints/VehicleGameMode.uasset" SILENT=true
+[2022.01.28-23.15.45:609][748]LogSavePackage: Moving 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/VehicleGameMode2D8FEDAE458222782921F3A33F39FE9D.tmp' to 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/VehicleBP/Blueprints/VehicleGameMode.uasset'
+[2022.01.28-23.15.45:655][748]AssetCheck: New page: Asset Save: VehicleGameMode
+[2022.01.28-23.15.45:655][748]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode
+[2022.01.28-23.16.47:716][143]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.01.28-23.17.03:930][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2022.01.28-23.17.04:041][749]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap
+[2022.01.28-23.17.04:042][749]Cmd: MAP LOAD FILE="C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.28-23.17.04:042][749]LightingResults: New page: Lighting Build
+[2022.01.28-23.17.04:042][749]LoadErrors: New page: Loading map: VehicleExampleMap.umap
+[2022.01.28-23.17.04:044][749]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.17.04:045][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.17.04:045][749]MapCheck: New page: Map Check
+[2022.01.28-23.17.04:045][749]LightingResults: New page: Lighting Build
+[2022.01.28-23.17.04:086][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.28-23.17.04:097][749]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.01.28-23.17.04:098][749]LogAudio: Display: Audio Device (ID: 1) registered with world 'VehicleExampleMap'.
+[2022.01.28-23.17.04:242][749]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.28-23.17.04:242][749]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.01.28-23.17.04:287][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.01.28-23.17.04:290][749]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.28-23.17.04:290][749]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.22ms to complete.
+[2022.01.28-23.17.04:290][749]LogFileHelpers: Loading map 'VehicleExampleMap' took 0.248
+[2022.01.28-23.17.05:915][799]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.28-23.17.05:938][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.28-23.17.05:938][799]PIE: New page: PIE session: VehicleExampleMap (Jan 28, 2022, 1:17:05 PM)
+[2022.01.28-23.17.05:939][799]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.28-23.17.05:967][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028316s)
+[2022.01.28-23.17.05:969][799]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2022.01.28-23.17.05:969][799]LogPlayLevel: PIE: World Init took: (0.002316s)
+[2022.01.28-23.17.05:970][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.030913s)
+[2022.01.28-23.17.06:016][799]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.01.28-23.17.06:018][799]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.01.28-23.17.06:018][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.28-23.17.06:018][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.28-23.17.06:018][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.28-23.17.06:018][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.28-23.17.06:018][799]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.28-23.17.06:018][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.28-23.17.06:018][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.28-23.17.06:018][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.28-23.17.06:019][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.28-23.17.06:019][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.28-23.17.06:019][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.28-23.17.06:019][799]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.28-23.17.06:044][799]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.28-23.17.06:044][799]LogAudioMixer: Display: 1: FrontRight
+[2022.01.28-23.17.06:061][799]LogAudioMixer: Display: Using Audio Device DELL S2415H (Intel(R) Display Audio)
+[2022.01.28-23.17.06:061][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.28-23.17.06:061][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.28-23.17.06:061][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.28-23.17.06:062][799]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.28-23.17.06:062][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.28-23.17.06:062][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.28-23.17.06:064][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.28-23.17.06:064][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.28-23.17.06:064][799]LogInit: FAudioDevice initialized.
+[2022.01.28-23.17.06:064][799]LogAudio: Display: Audio Device (ID: 5) registered with world 'VehicleExampleMap'.
+[2022.01.28-23.17.06:076][799]LogLoad: Game class is 'VehicleGameMode_C'
+[2022.01.28-23.17.06:086][799]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2022.01.28-18.17.06
+[2022.01.28-23.17.06:086][799]LogWorld: Bringing up level for play took: 0.003765
+[2022.01.28-23.17.06:087][799]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.01.28-23.17.06:090][799]PIE: Server logged in
+[2022.01.28-23.17.06:091][799]PIE: Play in editor total start time 0.17 seconds.
+[2022.01.28-23.17.26:360][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-23.17.26:360][673]LogWorld: BeginTearingDown for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2022.01.28-23.17.26:360][673]LogWorld: UWorld::CleanupWorld for VehicleExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.17.26:361][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.17.26:374][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.28-23.17.26:380][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.17.26:421][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-23.17.26:422][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-23.17.26:423][673]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-23.17.26:433][673]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.01.28-23.17.26:471][674]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.01.28-23.22.33:414][744]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.28-23.22.33:444][744]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.28-23.22.36:177][874]BlueprintLog: New page: Compile VehicleGameMode
+[2022.01.28-23.22.36:242][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.01.28-23.22.36:287][874]LogSlate: Took 0.001420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.28-23.22.36:925][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleBP/Blueprints/VehicleGameMode" FILE="C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/VehicleBP/Blueprints/VehicleGameMode.uasset" SILENT=true
+[2022.01.28-23.22.36:931][904]LogSavePackage: Moving 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Saved/VehicleGameMode69F45C664DDCC333C79E7A96EB6CFC2A.tmp' to 'C:/Users/jeff1/Documents/Unreal Projects/Inversion/Content/VehicleBP/Blueprints/VehicleGameMode.uasset'
+[2022.01.28-23.22.36:956][904]AssetCheck: New page: Asset Save: VehicleGameMode
+[2022.01.28-23.22.36:956][904]LogContentValidation: Display: Validating Blueprint /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode
+[2022.01.28-23.22.37:966][949]LogSlate: Window 'VehicleGameMode' being destroyed
+[2022.01.28-23.22.37:972][949]LogSlate: Window 'VehicleGameMode' being destroyed
+[2022.01.28-23.22.37:980][949]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.22.37:980][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-23.22.38:053][949]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.28-23.22.38:053][949]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-23.22.38:053][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
