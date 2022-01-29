@@ -1,4 +1,6 @@
 Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
-Intermediate
-Saved
-DerivedDataCache
+
+# we will manually regenerate visual studio project files
+.sln
+Binaries
+.vs
